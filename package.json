@@ -1,6 +1,7 @@
 {
 	"author": "MCS",
 	"name": "fcc-learn-npm-package-json",
+	"description": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
